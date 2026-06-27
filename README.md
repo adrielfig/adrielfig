@@ -5,7 +5,7 @@
 <!-- Introdução -->
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://adrielfg.com">Blackouty</a></h1>
-<p align="center">An end-to-end developer and cybersecurity enthusiast</p>
+<p align="center">Full Stack Developer & Cybersecurity Enthusiast</p>
 
 
 <!-- Conhecimento -->
