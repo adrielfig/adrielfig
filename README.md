@@ -16,7 +16,7 @@
 ## <div align="center">🧠 About Me</div>
 
 <p align="center">
-  Developer focused on building applications, backend systems and exploring cybersecurity, infrastructure and software architecture.
+  Developer focused on building applications, backend systems and exploring cybersecurity, networks, infrastructure and software architecture.
 </p>
 
 ---
