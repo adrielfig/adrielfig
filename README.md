@@ -119,9 +119,7 @@
 <p align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-blackkouty-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/893524625240256603)
-
 [![Instagram](https://img.shields.io/badge/Instagram-adriel.fig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adriel.fig)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriel%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriel-silva-866734380)
 
 </p>
