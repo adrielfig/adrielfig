@@ -39,7 +39,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase Realtime DB](https://img.shields.io/badge/firebase%20Realtime%20DB-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h4 align="left">☁️ Cloud Services:</h4>
+<h4 align="left">☁️ Cloud:</h4>
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
