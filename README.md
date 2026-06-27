@@ -54,5 +54,3 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adrielfig.adrielfig&left_text=Total%20Visitors&left_color=blue&right_color=blue">
