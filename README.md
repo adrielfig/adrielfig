@@ -54,3 +54,9 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<h4 align="left">💬 Contact Info:</h4>
+
+![Discord](https://img.shields.io/badge/Discord-blackkouty-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-adriel.fig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriel.fig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriel%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-silva-866734380)
