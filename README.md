@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blackouty.jpg" alt="Blackouty Banner" width="900">
+  <img src="blackouty.png" alt="Blackouty Banner" width="900">
 </p>
 
 <h1 align="center">
