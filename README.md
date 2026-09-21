@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm 
-  <a href="https://adrielfg.com">Blackouty</a>
+  <a href="https://adriel.l.cd">Blackouty</a>
 </h1>
 
 <p align="center">
